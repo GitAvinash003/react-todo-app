@@ -12,6 +12,7 @@ It allows users to **add**, **edit**, **delete**, and **mark tasks as completed*
 - Edit task titles
 - Delete tasks
 - Responsive design using Tailwind CSS
+- ![1751311754037](image/README/1751311754037.png)
 
 ---
 
@@ -21,6 +22,7 @@ It allows users to **add**, **edit**, **delete**, and **mark tasks as completed*
 - Vite
 - Tailwind CSS
 - UUID
+- react-icon/fa
 
 ---
 
