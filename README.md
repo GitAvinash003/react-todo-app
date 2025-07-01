@@ -32,5 +32,6 @@ It allows users to **add**, **edit**, **delete**, and **mark tasks as completed*
 
 ```bash
 https://github.com/GitAvinash003/react-todo-app.git
+npm install
 cd react-todo-app
 ```
